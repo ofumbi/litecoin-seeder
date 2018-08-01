@@ -1,7 +1,7 @@
-litecoin-seeder
+bitalgo-seeder
 ===============
 
-Litecoin-seeder is a crawler for the Litecoin network, which exposes a list
+bitalgo-seeder is a crawler for the bitalgo network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
